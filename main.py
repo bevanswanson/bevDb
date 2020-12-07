@@ -1,3 +1,3 @@
-f = open("../../datasets/AD.txt")
+f = open("../../datasets/AD.txt").read()
 
-print(f.read())
+results = []

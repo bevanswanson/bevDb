@@ -32,4 +32,5 @@ for i in number: {
 }
 
 ## Running
+
 `pipenv run python main.py`
